@@ -1,0 +1,30 @@
+{
+  "name": "nano-project",
+  "version": "1.0.0",
+  "description": "For demo project nano",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syuria27/nano-project.git"
+  },
+  "author": "Syukron Rizqi Ardhi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syuria27/nano-project/issues"
+  },
+  "homepage": "https://github.com/syuria27/nano-project#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "isset": "^1.0.3",
+    "md5": "^2.2.1",
+    "moment": "^2.18.1",
+    "morgan": "^1.8.1",
+    "mysql": "^2.13.0",
+    "pad-left": "^2.1.0"
+  }
+}
